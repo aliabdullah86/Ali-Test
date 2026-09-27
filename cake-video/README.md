@@ -1,16 +1,17 @@
 # Crémé Dorée · Tres Leches promo video
 
-`cremedoree-tres-leches.mp4` is a 26-second vertical promo (1080×1920, 30 fps, with music) for Instagram Reels, TikTok, WhatsApp Status and YouTube Shorts.
+`cremedoree-tres-leches.mp4` is a 23-second vertical promo (1080×1920, 30 fps) for Instagram Reels, TikTok, WhatsApp Status and YouTube Shorts. The cuts, flashes and text hits land on the beat of a 120 BPM music track.
 
 | Time | Scene |
 |---|---|
-| 0–4.6s | Gold "CD" logo draws itself in, then *Crémé Dorée by Rija presents Tres Leches* |
-| 4.6–9.6s | Top-down photo with slow zoom, milk dripping in from the top: "Three milks. One unforgettable bite." |
-| 9.6–14.8s | Side photo, a piping bag pipes cream rosettes, cinnamon falls: "Soaked. Whipped. Perfected." |
-| 14.8–19.8s | Gift-wrapped photo with falling rose petals: "Wrapped with love, perfect for gifting" |
-| 19.8–26s | Call to action: "Order yours today" plus a gold "DM to order" button |
+| 0–3s | Glitter burst and shockwave as the gold "CD" monogram lands on spinning sunburst rays, the brand name drops in letter by letter, then "by Rija presents" |
+| 3–6s | Beat-cut hook, one photo per beat: **SOFT. / SOAKED. / SINFUL.** in gold foil text |
+| 6–10s | "THE 3-MILK MAGIC": milk drips down, the cake sits in a rotating gold medallion, and three numbered pills pop in (evaporated milk, condensed milk, fresh cream) |
+| 10–14s | Split-screen of all three photos sliding in on diagonals: "HANDMADE with love, every single day", with piped cream rosettes |
+| 14–17.5s | Gift photo with light leaks, falling rose petals and a spinning "PERFECT GIFT" sticker |
+| 17.5–23s | "ORDER NOW" slam with confetti, flare and a shining gold "DM to order" button |
 
-Between scenes, piped whipped-cream rosettes fill the screen and then sweep away.
+Transitions are whip pans, a whipped-cream wipe and white flashes.
 
 ## Changing the text (phone number, handle, etc.)
 
